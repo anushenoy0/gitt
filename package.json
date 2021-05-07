@@ -1,8 +1,12 @@
 {
   "name": "gitt",
   "version": "1.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "moment": "^2.29.1",
+    "random": "^3.0.6"
+  },
   "devDependencies": {
-    "jsonfile": "^6.1.0"
+    "jsonfile": "^6.1.0",
+    "simple-git": "^2.38.0"
   }
 }
